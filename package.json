@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "first demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haozi8080/demo.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "chen haoran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haozi8080/demo/issues"
+  },
+  "homepage": "https://github.com/haozi8080/demo#readme"
+}
